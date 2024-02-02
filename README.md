@@ -1,6 +1,6 @@
 # Soccer-Data-Insight
 
-For the main report, which containes the insight and process, open "Messi Insight.pdf".
+For the main report, which containes the insight and process, open "Messi Insight-2.pdf".
 
 For the insight only, open "Insight Only-2.pdf". 
 
